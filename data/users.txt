@@ -1,0 +1,22 @@
+[
+    {
+    "id":1,
+    "login":"admin",
+    "firstName":"Andrzej",
+    "lastName":"Kuster",
+    "street":"Różana",
+    "zipcode":"62-660",
+    "city":"Dąbie",
+    "phone":"509877250"
+    },
+    {
+    "id":2,
+    "login":"superuser",
+    "firstName":"John",
+    "lastName":"Kwiatkowski",
+    "street":"Sesame",
+    "zipcode":"12-630",
+    "city":"London",
+    "phone":"109375356"
+    }
+]
